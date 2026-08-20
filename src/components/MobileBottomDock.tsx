@@ -21,7 +21,7 @@ export const MobileBottomDock: React.FC<MobileBottomDockProps> = ({ onOpenBookin
             <Phone className="w-4 h-4 text-orange-500 fill-orange-500" />
             <span className="text-[11px] font-black uppercase tracking-tight text-white font-mono">CALL</span>
           </div>
-          <span className="text-[9px] text-neutral-400 font-mono tracking-tighter">0334 353843</span>
+          <span className="text-[9px] text-neutral-400 font-mono tracking-tighter">{BOSS_CONTACT.phoneDisplay}</span>
         </a>
 
         {/* WhatsApp Direct Inquiry Button */}

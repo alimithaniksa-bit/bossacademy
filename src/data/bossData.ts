@@ -1,11 +1,11 @@
 import { SoundPackage, EquipmentAddOn, KarachiArea, EquipmentSpec, AudioSample, ReviewItem } from '../types';
 
 export const BOSS_CONTACT = {
-  phoneDisplay: '0334 353843',
-  phoneRaw: '+92334353843',
-  phoneLocal: '0334353843',
-  whatsappNumber: '92334353843',
-  whatsappLink: 'https://wa.me/92334353843',
+  phoneDisplay: '0334 3538432',
+  phoneRaw: '+923343538432',
+  phoneLocal: '03343538432',
+  whatsappNumber: '923343538432',
+  whatsappLink: 'https://wa.me/923343538432',
   email: 'bookings@bosssoundsystem.pk',
   city: 'Karachi, Sindh, Pakistan',
   serviceHours: '24/7 Event Booking & Emergency Sound Dispatch',
@@ -569,7 +569,7 @@ export const REVIEWS: ReviewItem[] = [
     venueArea: 'DHA Phase 8 Golf Club Lawn, Karachi',
     date: 'February 2026',
     rating: 5,
-    review: 'Boss Sound System completely rocked our Mehndi night! The bass from their subwoofers had everyone on the dance floor until 2 AM. When we messaged them on WhatsApp at 0334 353843, they replied within 5 minutes and delivered everything on time without a hitch.',
+    review: 'Boss Sound System completely rocked our Mehndi night! The bass from their subwoofers had everyone on the dance floor until 2 AM. When we messaged them on WhatsApp at 0334 3538432, they replied within 5 minutes and delivered everything on time without a hitch.',
     verifiedBooking: true
   },
   {
@@ -607,7 +607,7 @@ export const REVIEWS: ReviewItem[] = [
 export const FAQS = [
   {
     q: 'How far in advance should we book Boss Sound System in Karachi?',
-    a: 'For weekend wedding dates (Friday, Saturday, Sunday during peak season Nov-March), we recommend booking 2 to 4 weeks in advance. However, we also have mobile rapid-response crews available for same-day emergency sound rentals in Karachi across DHA, Gulshan, and Clifton via WhatsApp 0334 353843.'
+    a: 'For weekend wedding dates (Friday, Saturday, Sunday during peak season Nov-March), we recommend booking 2 to 4 weeks in advance. However, we also have mobile rapid-response crews available for same-day emergency sound rentals in Karachi across DHA, Gulshan, and Clifton via WhatsApp 0334 3538432.'
   },
   {
     q: 'Do you deliver to Super Highway and Malir Farmhouses?',
@@ -623,6 +623,6 @@ export const FAQS = [
   },
   {
     q: 'How does payment and booking confirmation work?',
-    a: 'You can reserve your date instantly by filling out the online booking form or sending a WhatsApp message to 0334 353843. A small 20% advance secures your date with an official receipt, and the balance is settled on the event day after setup sound check.'
+    a: 'You can reserve your date instantly by filling out the online booking form or sending a WhatsApp message to 0334 3538432. A small 20% advance secures your date with an official receipt, and the balance is settled on the event day after setup sound check.'
   }
 ];
