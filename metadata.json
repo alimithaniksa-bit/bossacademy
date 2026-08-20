@@ -1,0 +1,6 @@
+{
+  "name": "Boss Sound System Karachi",
+  "description": "Premier physical music sound systems, DJ entertainment, stage lighting, and event sound rentals across Karachi with instant booking and WhatsApp support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
